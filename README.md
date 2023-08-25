@@ -1,4 +1,6 @@
 //////////DB////////
+
+
 CREATE TABLE roots (
     id BIGINT AUTO_INCREMENT PRIMARY KEY,
     root DOUBLE
